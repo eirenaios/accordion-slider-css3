@@ -3,7 +3,7 @@
 This slider is developed using only css3, It is simple, Lightweight and Free!
 
 ##see demo here
-* Source: (http://www.sureshkaria.com/projects/hoverslider/)
+* Demo link: (http://www.sureshkaria.com/projects/hoverslider/)
 
 ## Quick Links
 * Source: (https://github.com/eirenaios/accordion-slider-css3)
